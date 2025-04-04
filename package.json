@@ -5,7 +5,8 @@
   "main": "./api/server.js",
   "author": "Benin",
   "scripts":{
-    "start":"node main";
+    "start":"node main"
+  }
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
     "cors": "^2.8.5",
