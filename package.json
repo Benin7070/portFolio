@@ -2,10 +2,10 @@
   "name": "beninfx-site",
   "version": "1.0.0",
   "type": "commonjs",
-  "main": "./api/server.js",
+  "main": "./api/index.js",
   "author": "Benin",
   "scripts":{
-    "start":"node main"
+    "start":"node api/index.js"
   }
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
