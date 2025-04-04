@@ -6,7 +6,7 @@
   "author": "Benin",
   "scripts":{
     "start":"node api/index.js"
-  }
+  },
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
     "cors": "^2.8.5",
