@@ -1,0 +1,26 @@
+[
+    {
+        "delay":"0.0s",
+        "class":"fa-brands fa-instagram",
+        "heading":"Reels Editing",
+        "content":"We create modern, high-quality Reels that align with your brand's style and goals. From clean corporate edits to trendy visuals — crafted to engage and convert."
+    },
+    {
+        "delay":"0.2s",
+        "class":"fa-brands fa-youtube",
+        "heading":"Long-form Videos",
+        "content":"We produce high-quality, long-form YouTube videos designed to align with your brand's identity. From professional storytelling to engaging edits — built to captivate and retain your audience."
+    },
+    {
+        "delay":"0.4s",
+        "class":"fa-solid fa-film",
+        "heading":"Short Film Editing",
+        "content":"We craft short films with impactful cuts and cinematic color grading to elevate your story. From storytelling to stunning visuals — designed to leave a lasting impression."
+    },
+    {
+        "delay":"0.6s",
+        "class":"fa-solid fa-rectangle-ad",
+        "heading":"Commercial Ads",
+        "content":"We craft high-impact commercial ads that grab attention and communicate your brand’s story with precision. Blending creativity and strategy — ads that connect, resonate, and inspire."
+    }
+]

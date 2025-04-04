@@ -1,0 +1,32 @@
+[
+    {
+        "video":"portFolio-1.mp4",
+        "thumbnail":"thumbNail-1.png",
+        "title":"Reel Edit 1"
+    },
+    {
+        "video":"portFolio-2.mp4",
+        "thumbnail":"thumbNail-2.png",
+        "title":"Reel Edit 2"
+    },
+    {
+        "video":"portFolio-3.mp4",
+        "thumbnail":"thumbNail-3.png",
+        "title":"Reel Edit 3"
+    },
+    {
+        "video":"portFolio-4.mp4",
+        "thumbnail":"thumbNail-4.png",
+        "title":"Reel Edit 4"
+    },
+    {
+        "video":"portFolio-4.mp4",
+        "thumbnail":"thumbNail-4.png",
+        "title":"Reel Edit 4"
+    },
+    {
+        "video":"portFolio-4.mp4",
+        "thumbnail":"thumbNail-4.png",
+        "title":"Reel Edit 4"
+    }
+]
