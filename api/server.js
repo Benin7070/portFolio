@@ -73,7 +73,7 @@ const validateEmailDomain = (email) => {
 };
 
 app.get("/api/services", (req, res) => {
-    const filePath = path.join(__dirname, 'data', 'services.json');
+     const filePath = path.join(__dirname, 'data', 'services.json');
     fs.readFile(filePath, 'utf8', (err, data) => {
         if (err) {
             return res.status(500).json({ error: "Failed to read services file" });
