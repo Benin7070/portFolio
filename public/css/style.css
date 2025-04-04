@@ -916,6 +916,15 @@ a:focus {
 .video-popup iframe {
     width: 800px;
     height: 450px;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .video-popup iframe {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9; 
+    }
 }
 
 @keyframes slideOutLeft {
@@ -1698,6 +1707,7 @@ a:focus {
     opacity: 0;
     transform: scale(0.8);
     transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out;
+    overflow: hidden;
 }
 
 .video-popup.active {
