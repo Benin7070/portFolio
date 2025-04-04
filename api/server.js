@@ -4,10 +4,6 @@ const { Resend } = require('resend');
 const path = require('path');
 const dns = require('dns');
 
-if (process.env.NODE_ENV !== 'production') {
-    require('dotenv').config();
-  }
-
 
 const app = express();
 app.use(express.json());
