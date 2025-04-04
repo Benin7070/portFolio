@@ -2,7 +2,7 @@
   "name": "beninfx-site",
   "version": "1.0.0",
   "type": "commonjs",
-  "main": "./api/server.js"
+  "main": "./api/server.js",
   "scripts":{
     "start": "node server.js"
   },
